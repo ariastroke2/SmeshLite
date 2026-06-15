@@ -18,7 +18,7 @@ from smeshlite.core.brain import PlayerInput
 from smeshlite.render.renderer import Renderer, SCREEN_W, SCREEN_H
 
 # Importa tus agentes aquí
-from agents  import chaser_bot, random_bot, smesh_bot, qtable_bot
+from agents  import chaser_bot, random_bot, smesh_bot, qtable_bot, deepq_bot_v2
 
 
 # Build match and wire PlayerInput brains
@@ -41,10 +41,10 @@ def demo_character_brains_config(match):
     )
 
     match.characters[1].set_brain(
-        qtable_bot.QTableBot(q_table_path="agents/checkpoints/qtable_bot.json", epsilon=0.0)
+        deepq_bot_v2.DeepQBot(checkpoint_path="agents/checkpoints/deepq_bot.pt", epsilon=0.0)
     )
 
-    # match.characters[1].set_brain(smesh_bot.SmeshBot())
+    # match.characters[0].set_brain(smesh_bot.SmeshBot())
 
     # Fijar cerebro del jugador 2 al input ARROW KEYS
     # match.characters[1].set_brain(PlayerInput(

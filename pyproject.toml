@@ -13,7 +13,7 @@ dependencies = [
 
 [project.optional-dependencies]
 render = ["pygame>=2.5"]
-train  = ["stable-baselines3>=2.0"]
+train  = ["stable-baselines3>=2.0", "tqdm"]
 dev    = ["pytest>=8.0", "ipykernel"]
 
 [tool.setuptools.packages.find]
