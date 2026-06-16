@@ -2,7 +2,18 @@ ULTRA MEGA SMESH/
 __pycache__/
 *.pyc
 .venv/
+.venv311/
+.cache/
+.matplotlib-cache/
 *.egg-info/
 .ipynb_checkpoints/
 build/
 dist/
+
+# Notebook-generated PPO checkpoints
+agents/checkpoints/ppo_smeshlite_*.zip
+
+# Keep only the final MLflow artifact snapshot referenced by results/mlflow_ppo_final_run.json
+results/mlflow_artifacts/*
+!results/mlflow_artifacts/44125876a4cf4469bc08ef15c9490afc/
+!results/mlflow_artifacts/44125876a4cf4469bc08ef15c9490afc/**

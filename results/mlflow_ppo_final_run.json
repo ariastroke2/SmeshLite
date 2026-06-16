@@ -1,0 +1,7 @@
+{
+  "experiment": "ppo_smeshlite_final",
+  "run_name": "ppo_chaser_100k_final",
+  "run_id": "44125876a4cf4469bc08ef15c9490afc",
+  "tracking_uri": "sqlite:////Users/jyaruhernandez/Documents/proyecto_final_ml_II/SmeshLite/results/mlflow_tracking.db",
+  "artifact_root": "file:///Users/jyaruhernandez/Documents/proyecto_final_ml_II/SmeshLite/results/mlflow_artifacts"
+}

@@ -1,0 +1,74 @@
+{
+  "base_chaser_only": {
+    "RandomBot": {
+      "win_rate": 0.98,
+      "ci_low": 0.95256,
+      "ci_high": 1,
+      "avg_reward": 2.47965,
+      "stock_margin": 2.2,
+      "damage_margin": 10.677999999999999
+    },
+    "ChaserBot": {
+      "win_rate": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1,
+      "avg_reward": 5.592500000000001,
+      "stock_margin": 1.0,
+      "damage_margin": 178.25
+    },
+    "SmeshBot": {
+      "win_rate": 0.67,
+      "ci_low": 0.5778383073072114,
+      "ci_high": 0.7621616926927887,
+      "avg_reward": 1.5388,
+      "stock_margin": -0.17,
+      "damage_margin": 29.258999999999997
+    }
+  },
+  "naive_curriculum": {
+    "RandomBot": {
+      "win_rate": 1.0,
+      "ci_low": 1.0,
+      "ci_high": 1,
+      "avg_reward": 2.0707999999999998,
+      "stock_margin": 2.07,
+      "damage_margin": 0.0
+    },
+    "ChaserBot": {
+      "win_rate": 0.0,
+      "ci_low": 0,
+      "ci_high": 0.0,
+      "avg_reward": -3.0,
+      "stock_margin": -3.0,
+      "damage_margin": 0.0
+    },
+    "SmeshBot": {
+      "win_rate": 0.69,
+      "ci_low": 0.5993513243339981,
+      "ci_high": 0.7806486756660018,
+      "avg_reward": -0.125275,
+      "stock_margin": -0.29,
+      "damage_margin": 12.2935
+    }
+  },
+  "delta": {
+    "RandomBot": {
+      "win_rate": 0.020000000000000018,
+      "avg_reward": -0.40885000000000016,
+      "stock_margin": -0.13000000000000034,
+      "damage_margin": -10.677999999999999
+    },
+    "ChaserBot": {
+      "win_rate": -1.0,
+      "avg_reward": -8.592500000000001,
+      "stock_margin": -4.0,
+      "damage_margin": -178.25
+    },
+    "SmeshBot": {
+      "win_rate": 0.019999999999999907,
+      "avg_reward": -1.664075,
+      "stock_margin": -0.11999999999999997,
+      "damage_margin": -16.9655
+    }
+  }
+}

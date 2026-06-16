@@ -1,0 +1,2295 @@
+{
+  "seed": 42,
+  "timesteps": 100000,
+  "training_seconds": 30.707650184631348,
+  "training_episodes": [
+    {
+      "timestep": 328,
+      "reward": -0.822558,
+      "length": 328
+    },
+    {
+      "timestep": 799,
+      "reward": -0.006009,
+      "length": 471
+    },
+    {
+      "timestep": 1056,
+      "reward": 1.579672,
+      "length": 257
+    },
+    {
+      "timestep": 1177,
+      "reward": -1.876307,
+      "length": 121
+    },
+    {
+      "timestep": 1635,
+      "reward": 2.391142,
+      "length": 458
+    },
+    {
+      "timestep": 1866,
+      "reward": -0.756793,
+      "length": 231
+    },
+    {
+      "timestep": 2111,
+      "reward": -2.123439,
+      "length": 245
+    },
+    {
+      "timestep": 2536,
+      "reward": -0.141947,
+      "length": 425
+    },
+    {
+      "timestep": 2689,
+      "reward": -0.719065,
+      "length": 153
+    },
+    {
+      "timestep": 3365,
+      "reward": 4.322477,
+      "length": 676
+    },
+    {
+      "timestep": 3528,
+      "reward": -1.194137,
+      "length": 163
+    },
+    {
+      "timestep": 3645,
+      "reward": -0.873512,
+      "length": 117
+    },
+    {
+      "timestep": 4294,
+      "reward": 3.213219,
+      "length": 649
+    },
+    {
+      "timestep": 4848,
+      "reward": -0.203497,
+      "length": 554
+    },
+    {
+      "timestep": 5235,
+      "reward": -1.198221,
+      "length": 387
+    },
+    {
+      "timestep": 5620,
+      "reward": -0.629882,
+      "length": 385
+    },
+    {
+      "timestep": 6190,
+      "reward": -0.602408,
+      "length": 570
+    },
+    {
+      "timestep": 6696,
+      "reward": 0.894231,
+      "length": 506
+    },
+    {
+      "timestep": 7125,
+      "reward": -0.907643,
+      "length": 429
+    },
+    {
+      "timestep": 7784,
+      "reward": 1.141756,
+      "length": 659
+    },
+    {
+      "timestep": 8910,
+      "reward": 3.370387,
+      "length": 1126
+    },
+    {
+      "timestep": 9455,
+      "reward": 1.718507,
+      "length": 545
+    },
+    {
+      "timestep": 10104,
+      "reward": 3.55294,
+      "length": 649
+    },
+    {
+      "timestep": 10333,
+      "reward": -2.813767,
+      "length": 229
+    },
+    {
+      "timestep": 11291,
+      "reward": 1.834287,
+      "length": 958
+    },
+    {
+      "timestep": 11535,
+      "reward": 3.231812,
+      "length": 244
+    },
+    {
+      "timestep": 12255,
+      "reward": 4.7419,
+      "length": 720
+    },
+    {
+      "timestep": 13005,
+      "reward": 3.639073,
+      "length": 750
+    },
+    {
+      "timestep": 13513,
+      "reward": 3.791682,
+      "length": 508
+    },
+    {
+      "timestep": 14557,
+      "reward": 5.903798,
+      "length": 1044
+    },
+    {
+      "timestep": 15007,
+      "reward": 1.087326,
+      "length": 450
+    },
+    {
+      "timestep": 15832,
+      "reward": 4.151277,
+      "length": 825
+    },
+    {
+      "timestep": 16147,
+      "reward": 2.821051,
+      "length": 315
+    },
+    {
+      "timestep": 16751,
+      "reward": 6.223651,
+      "length": 604
+    },
+    {
+      "timestep": 17356,
+      "reward": 3.79847,
+      "length": 605
+    },
+    {
+      "timestep": 17728,
+      "reward": 3.04384,
+      "length": 372
+    },
+    {
+      "timestep": 18035,
+      "reward": 2.436879,
+      "length": 307
+    },
+    {
+      "timestep": 18556,
+      "reward": 3.882734,
+      "length": 521
+    },
+    {
+      "timestep": 19376,
+      "reward": 3.34059,
+      "length": 820
+    },
+    {
+      "timestep": 20333,
+      "reward": 6.848379,
+      "length": 957
+    },
+    {
+      "timestep": 20816,
+      "reward": -1.734182,
+      "length": 483
+    },
+    {
+      "timestep": 21520,
+      "reward": 0.157623,
+      "length": 704
+    },
+    {
+      "timestep": 21980,
+      "reward": -0.001701,
+      "length": 460
+    },
+    {
+      "timestep": 22296,
+      "reward": -0.474628,
+      "length": 316
+    },
+    {
+      "timestep": 23907,
+      "reward": 4.870939,
+      "length": 1611
+    },
+    {
+      "timestep": 24165,
+      "reward": -0.428801,
+      "length": 258
+    },
+    {
+      "timestep": 24546,
+      "reward": -0.455796,
+      "length": 381
+    },
+    {
+      "timestep": 25256,
+      "reward": -0.748554,
+      "length": 710
+    },
+    {
+      "timestep": 26495,
+      "reward": 3.081396,
+      "length": 1239
+    },
+    {
+      "timestep": 27167,
+      "reward": 2.316353,
+      "length": 672
+    },
+    {
+      "timestep": 28384,
+      "reward": 5.314048,
+      "length": 1217
+    },
+    {
+      "timestep": 28827,
+      "reward": 2.080201,
+      "length": 443
+    },
+    {
+      "timestep": 29734,
+      "reward": 3.433486,
+      "length": 907
+    },
+    {
+      "timestep": 30573,
+      "reward": 5.957641,
+      "length": 839
+    },
+    {
+      "timestep": 31361,
+      "reward": 4.980478,
+      "length": 788
+    },
+    {
+      "timestep": 31958,
+      "reward": 6.221439,
+      "length": 597
+    },
+    {
+      "timestep": 32432,
+      "reward": 3.904457,
+      "length": 474
+    },
+    {
+      "timestep": 33115,
+      "reward": 0.792427,
+      "length": 683
+    },
+    {
+      "timestep": 33932,
+      "reward": 5.368804,
+      "length": 817
+    },
+    {
+      "timestep": 34384,
+      "reward": 2.592062,
+      "length": 452
+    },
+    {
+      "timestep": 35054,
+      "reward": 4.237482,
+      "length": 670
+    },
+    {
+      "timestep": 36064,
+      "reward": 7.103938,
+      "length": 1010
+    },
+    {
+      "timestep": 36420,
+      "reward": 4.210775,
+      "length": 356
+    },
+    {
+      "timestep": 36953,
+      "reward": 1.044176,
+      "length": 533
+    },
+    {
+      "timestep": 37512,
+      "reward": 4.26126,
+      "length": 559
+    },
+    {
+      "timestep": 38010,
+      "reward": 3.255006,
+      "length": 498
+    },
+    {
+      "timestep": 38623,
+      "reward": 4.104005,
+      "length": 613
+    },
+    {
+      "timestep": 39245,
+      "reward": 2.804498,
+      "length": 622
+    },
+    {
+      "timestep": 39800,
+      "reward": 0.28496,
+      "length": 555
+    },
+    {
+      "timestep": 40913,
+      "reward": 6.391485,
+      "length": 1113
+    },
+    {
+      "timestep": 42062,
+      "reward": 4.868781,
+      "length": 1149
+    },
+    {
+      "timestep": 43257,
+      "reward": 7.07372,
+      "length": 1195
+    },
+    {
+      "timestep": 44171,
+      "reward": 6.272705,
+      "length": 914
+    },
+    {
+      "timestep": 45290,
+      "reward": 6.522408,
+      "length": 1119
+    },
+    {
+      "timestep": 45892,
+      "reward": 4.338778,
+      "length": 602
+    },
+    {
+      "timestep": 46731,
+      "reward": 3.085246,
+      "length": 839
+    },
+    {
+      "timestep": 47735,
+      "reward": 6.39568,
+      "length": 1004
+    },
+    {
+      "timestep": 48672,
+      "reward": 6.242683,
+      "length": 937
+    },
+    {
+      "timestep": 49949,
+      "reward": 3.726962,
+      "length": 1277
+    },
+    {
+      "timestep": 50458,
+      "reward": 4.199931,
+      "length": 509
+    },
+    {
+      "timestep": 50908,
+      "reward": 4.457599,
+      "length": 450
+    },
+    {
+      "timestep": 51472,
+      "reward": 5.474431,
+      "length": 564
+    },
+    {
+      "timestep": 51840,
+      "reward": 1.764511,
+      "length": 368
+    },
+    {
+      "timestep": 52262,
+      "reward": 1.266968,
+      "length": 422
+    },
+    {
+      "timestep": 52916,
+      "reward": 6.524974,
+      "length": 654
+    },
+    {
+      "timestep": 53291,
+      "reward": 4.713702,
+      "length": 375
+    },
+    {
+      "timestep": 53729,
+      "reward": 3.484964,
+      "length": 438
+    },
+    {
+      "timestep": 53918,
+      "reward": -0.432443,
+      "length": 189
+    },
+    {
+      "timestep": 54638,
+      "reward": 5.791065,
+      "length": 720
+    },
+    {
+      "timestep": 55222,
+      "reward": 4.734994,
+      "length": 584
+    },
+    {
+      "timestep": 55629,
+      "reward": -0.248727,
+      "length": 407
+    },
+    {
+      "timestep": 56170,
+      "reward": 6.00132,
+      "length": 541
+    },
+    {
+      "timestep": 57036,
+      "reward": 1.34497,
+      "length": 866
+    },
+    {
+      "timestep": 57971,
+      "reward": 1.884033,
+      "length": 935
+    },
+    {
+      "timestep": 58687,
+      "reward": 7.224106,
+      "length": 716
+    },
+    {
+      "timestep": 59412,
+      "reward": 5.341643,
+      "length": 725
+    },
+    {
+      "timestep": 60036,
+      "reward": 6.058076,
+      "length": 624
+    },
+    {
+      "timestep": 60392,
+      "reward": -1.059722,
+      "length": 356
+    },
+    {
+      "timestep": 60736,
+      "reward": 3.979835,
+      "length": 344
+    },
+    {
+      "timestep": 61451,
+      "reward": 6.640693,
+      "length": 715
+    },
+    {
+      "timestep": 62613,
+      "reward": 4.787069,
+      "length": 1162
+    },
+    {
+      "timestep": 63270,
+      "reward": 5.552489,
+      "length": 657
+    },
+    {
+      "timestep": 63525,
+      "reward": -0.028232,
+      "length": 255
+    },
+    {
+      "timestep": 64279,
+      "reward": 4.608169,
+      "length": 754
+    },
+    {
+      "timestep": 64791,
+      "reward": 3.889586,
+      "length": 512
+    },
+    {
+      "timestep": 65025,
+      "reward": -1.049459,
+      "length": 234
+    },
+    {
+      "timestep": 65414,
+      "reward": 3.327345,
+      "length": 389
+    },
+    {
+      "timestep": 66185,
+      "reward": 6.96713,
+      "length": 771
+    },
+    {
+      "timestep": 66537,
+      "reward": 5.759697,
+      "length": 352
+    },
+    {
+      "timestep": 66774,
+      "reward": -1.004945,
+      "length": 237
+    },
+    {
+      "timestep": 67533,
+      "reward": 4.384683,
+      "length": 759
+    },
+    {
+      "timestep": 68265,
+      "reward": 6.322781,
+      "length": 732
+    },
+    {
+      "timestep": 68496,
+      "reward": 4.614716,
+      "length": 231
+    },
+    {
+      "timestep": 69235,
+      "reward": 4.83301,
+      "length": 739
+    },
+    {
+      "timestep": 69820,
+      "reward": 3.787987,
+      "length": 585
+    },
+    {
+      "timestep": 70217,
+      "reward": -1.758349,
+      "length": 397
+    },
+    {
+      "timestep": 70823,
+      "reward": 5.760529,
+      "length": 606
+    },
+    {
+      "timestep": 71490,
+      "reward": 5.421309,
+      "length": 667
+    },
+    {
+      "timestep": 72170,
+      "reward": 3.845811,
+      "length": 680
+    },
+    {
+      "timestep": 72585,
+      "reward": 5.500563,
+      "length": 415
+    },
+    {
+      "timestep": 73152,
+      "reward": 6.052931,
+      "length": 567
+    },
+    {
+      "timestep": 73635,
+      "reward": 5.661964,
+      "length": 483
+    },
+    {
+      "timestep": 74449,
+      "reward": 5.524679,
+      "length": 814
+    },
+    {
+      "timestep": 75617,
+      "reward": 5.635711,
+      "length": 1168
+    },
+    {
+      "timestep": 76365,
+      "reward": 6.20606,
+      "length": 748
+    },
+    {
+      "timestep": 77102,
+      "reward": 6.935546,
+      "length": 737
+    },
+    {
+      "timestep": 77686,
+      "reward": 3.704749,
+      "length": 584
+    },
+    {
+      "timestep": 78415,
+      "reward": 2.940372,
+      "length": 729
+    },
+    {
+      "timestep": 79067,
+      "reward": 4.22228,
+      "length": 652
+    },
+    {
+      "timestep": 80018,
+      "reward": 1.611024,
+      "length": 951
+    },
+    {
+      "timestep": 80889,
+      "reward": 4.466754,
+      "length": 871
+    },
+    {
+      "timestep": 81736,
+      "reward": 7.351253,
+      "length": 847
+    },
+    {
+      "timestep": 82645,
+      "reward": 2.767408,
+      "length": 909
+    },
+    {
+      "timestep": 83391,
+      "reward": 3.776779,
+      "length": 746
+    },
+    {
+      "timestep": 83807,
+      "reward": 4.204485,
+      "length": 416
+    },
+    {
+      "timestep": 84551,
+      "reward": 2.685345,
+      "length": 744
+    },
+    {
+      "timestep": 84912,
+      "reward": 0.939557,
+      "length": 361
+    },
+    {
+      "timestep": 85471,
+      "reward": 6.019704,
+      "length": 559
+    },
+    {
+      "timestep": 85875,
+      "reward": 6.221381,
+      "length": 404
+    },
+    {
+      "timestep": 86358,
+      "reward": 1.146948,
+      "length": 483
+    },
+    {
+      "timestep": 86682,
+      "reward": 4.593721,
+      "length": 324
+    },
+    {
+      "timestep": 87104,
+      "reward": 6.967048,
+      "length": 422
+    },
+    {
+      "timestep": 87979,
+      "reward": 6.262984,
+      "length": 875
+    },
+    {
+      "timestep": 88708,
+      "reward": 4.872382,
+      "length": 729
+    },
+    {
+      "timestep": 89338,
+      "reward": 5.732498,
+      "length": 630
+    },
+    {
+      "timestep": 90002,
+      "reward": 6.742872,
+      "length": 664
+    },
+    {
+      "timestep": 91090,
+      "reward": 6.848545,
+      "length": 1088
+    },
+    {
+      "timestep": 91449,
+      "reward": 5.384006,
+      "length": 359
+    },
+    {
+      "timestep": 91990,
+      "reward": 0.662781,
+      "length": 541
+    },
+    {
+      "timestep": 92695,
+      "reward": 5.027632,
+      "length": 705
+    },
+    {
+      "timestep": 93401,
+      "reward": 6.083895,
+      "length": 706
+    },
+    {
+      "timestep": 93890,
+      "reward": 5.923785,
+      "length": 489
+    },
+    {
+      "timestep": 94890,
+      "reward": 5.962078,
+      "length": 1000
+    },
+    {
+      "timestep": 95303,
+      "reward": 5.499904,
+      "length": 413
+    },
+    {
+      "timestep": 96091,
+      "reward": 4.93817,
+      "length": 788
+    },
+    {
+      "timestep": 96459,
+      "reward": 6.557703,
+      "length": 368
+    },
+    {
+      "timestep": 96814,
+      "reward": 5.82011,
+      "length": 355
+    },
+    {
+      "timestep": 97217,
+      "reward": 4.952281,
+      "length": 403
+    },
+    {
+      "timestep": 97812,
+      "reward": 4.038101,
+      "length": 595
+    },
+    {
+      "timestep": 98217,
+      "reward": 1.793349,
+      "length": 405
+    },
+    {
+      "timestep": 98715,
+      "reward": 4.882309,
+      "length": 498
+    },
+    {
+      "timestep": 99024,
+      "reward": 3.666008,
+      "length": 309
+    },
+    {
+      "timestep": 99552,
+      "reward": 3.783881,
+      "length": 528
+    },
+    {
+      "timestep": 100275,
+      "reward": 5.655882,
+      "length": 723
+    }
+  ],
+  "ppo_rows": [
+    {
+      "episode": 0,
+      "opponent": "RandomBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 1.24,
+      "p0_damage": 3.75,
+      "p1_damage": 0.0,
+      "p0_stocks": 3,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 1,
+      "opponent": "RandomBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 4647,
+      "reward": 3.4800000000000004,
+      "p0_damage": 13.0,
+      "p1_damage": 48.0,
+      "p0_stocks": 3,
+      "p1_stocks": 0
+    },
+    {
+      "episode": 2,
+      "opponent": "RandomBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 1939,
+      "reward": 3.16,
+      "p0_damage": 0.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 3,
+      "p1_stocks": 0
+    },
+    {
+      "episode": 3,
+      "opponent": "RandomBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 5783,
+      "reward": 3.0700000000000003,
+      "p0_damage": 10.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 3,
+      "p1_stocks": 0
+    },
+    {
+      "episode": 4,
+      "opponent": "RandomBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 2.5,
+      "p0_damage": 3.6,
+      "p1_damage": 0.0,
+      "p0_stocks": 3,
+      "p1_stocks": 1
+    },
+    {
+      "episode": 5,
+      "opponent": "RandomBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 1478,
+      "reward": 3.0,
+      "p0_damage": 0.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 3,
+      "p1_stocks": 0
+    },
+    {
+      "episode": 6,
+      "opponent": "RandomBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7025,
+      "reward": 3.0,
+      "p0_damage": 0.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 3,
+      "p1_stocks": 0
+    },
+    {
+      "episode": 7,
+      "opponent": "RandomBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 4781,
+      "reward": 3.32,
+      "p0_damage": 7.0,
+      "p1_damage": 32.0,
+      "p0_stocks": 3,
+      "p1_stocks": 0
+    },
+    {
+      "episode": 8,
+      "opponent": "RandomBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 3669,
+      "reward": 3.16,
+      "p0_damage": 3.6,
+      "p1_damage": 16.0,
+      "p0_stocks": 3,
+      "p1_stocks": 0
+    },
+    {
+      "episode": 9,
+      "opponent": "RandomBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 1.7800000000000002,
+      "p0_damage": 10.6,
+      "p1_damage": 78.0,
+      "p0_stocks": 3,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 10,
+      "opponent": "RandomBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 3980,
+      "reward": 3.0,
+      "p0_damage": 0.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 3,
+      "p1_stocks": 0
+    },
+    {
+      "episode": 11,
+      "opponent": "RandomBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 1.08,
+      "p0_damage": 0.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 3,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 12,
+      "opponent": "RandomBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 2.08,
+      "p0_damage": 0.0,
+      "p1_damage": 8.0,
+      "p0_stocks": 3,
+      "p1_stocks": 1
+    },
+    {
+      "episode": 13,
+      "opponent": "RandomBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 5995,
+      "reward": 4.654999999999999,
+      "p0_damage": 34.7,
+      "p1_damage": 165.5,
+      "p0_stocks": 3,
+      "p1_stocks": 0
+    },
+    {
+      "episode": 14,
+      "opponent": "RandomBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 1.55,
+      "p0_damage": 7.2,
+      "p1_damage": 0.0,
+      "p0_stocks": 3,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 15,
+      "opponent": "RandomBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 1.5599999999999998,
+      "p0_damage": 7.2,
+      "p1_damage": 56.0,
+      "p0_stocks": 3,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 16,
+      "opponent": "RandomBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 2328,
+      "reward": 3.0,
+      "p0_damage": 0.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 3,
+      "p1_stocks": 0
+    },
+    {
+      "episode": 17,
+      "opponent": "RandomBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 4041,
+      "reward": 3.64,
+      "p0_damage": 16.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 3,
+      "p1_stocks": 0
+    },
+    {
+      "episode": 18,
+      "opponent": "RandomBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 0.0,
+      "p0_damage": 0.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 2,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 19,
+      "opponent": "RandomBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 2.16,
+      "p0_damage": 0.0,
+      "p1_damage": 16.0,
+      "p0_stocks": 3,
+      "p1_stocks": 1
+    },
+    {
+      "episode": 0,
+      "opponent": "ChaserBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 5.592500000000002,
+      "p0_damage": 102.0,
+      "p1_damage": 280.25,
+      "p0_stocks": 3,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 1,
+      "opponent": "ChaserBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 5.592500000000002,
+      "p0_damage": 102.0,
+      "p1_damage": 280.25,
+      "p0_stocks": 3,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 2,
+      "opponent": "ChaserBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 5.592500000000002,
+      "p0_damage": 102.0,
+      "p1_damage": 280.25,
+      "p0_stocks": 3,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 3,
+      "opponent": "ChaserBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 5.592500000000002,
+      "p0_damage": 102.0,
+      "p1_damage": 280.25,
+      "p0_stocks": 3,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 4,
+      "opponent": "ChaserBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 5.592500000000002,
+      "p0_damage": 102.0,
+      "p1_damage": 280.25,
+      "p0_stocks": 3,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 5,
+      "opponent": "ChaserBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 5.592500000000002,
+      "p0_damage": 102.0,
+      "p1_damage": 280.25,
+      "p0_stocks": 3,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 6,
+      "opponent": "ChaserBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 5.592500000000002,
+      "p0_damage": 102.0,
+      "p1_damage": 280.25,
+      "p0_stocks": 3,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 7,
+      "opponent": "ChaserBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 5.592500000000002,
+      "p0_damage": 102.0,
+      "p1_damage": 280.25,
+      "p0_stocks": 3,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 8,
+      "opponent": "ChaserBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 5.592500000000002,
+      "p0_damage": 102.0,
+      "p1_damage": 280.25,
+      "p0_stocks": 3,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 9,
+      "opponent": "ChaserBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 5.592500000000002,
+      "p0_damage": 102.0,
+      "p1_damage": 280.25,
+      "p0_stocks": 3,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 10,
+      "opponent": "ChaserBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 5.592500000000002,
+      "p0_damage": 102.0,
+      "p1_damage": 280.25,
+      "p0_stocks": 3,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 11,
+      "opponent": "ChaserBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 5.592500000000002,
+      "p0_damage": 102.0,
+      "p1_damage": 280.25,
+      "p0_stocks": 3,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 12,
+      "opponent": "ChaserBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 5.592500000000002,
+      "p0_damage": 102.0,
+      "p1_damage": 280.25,
+      "p0_stocks": 3,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 13,
+      "opponent": "ChaserBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 5.592500000000002,
+      "p0_damage": 102.0,
+      "p1_damage": 280.25,
+      "p0_stocks": 3,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 14,
+      "opponent": "ChaserBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 5.592500000000002,
+      "p0_damage": 102.0,
+      "p1_damage": 280.25,
+      "p0_stocks": 3,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 15,
+      "opponent": "ChaserBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 5.592500000000002,
+      "p0_damage": 102.0,
+      "p1_damage": 280.25,
+      "p0_stocks": 3,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 16,
+      "opponent": "ChaserBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 5.592500000000002,
+      "p0_damage": 102.0,
+      "p1_damage": 280.25,
+      "p0_stocks": 3,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 17,
+      "opponent": "ChaserBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 5.592500000000002,
+      "p0_damage": 102.0,
+      "p1_damage": 280.25,
+      "p0_stocks": 3,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 18,
+      "opponent": "ChaserBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 5.592500000000002,
+      "p0_damage": 102.0,
+      "p1_damage": 280.25,
+      "p0_stocks": 3,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 19,
+      "opponent": "ChaserBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 5.592500000000002,
+      "p0_damage": 102.0,
+      "p1_damage": 280.25,
+      "p0_stocks": 3,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 0,
+      "opponent": "SmeshBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 0.0,
+      "p0_damage": 0.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 3,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 1,
+      "opponent": "SmeshBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 5.6125000000000025,
+      "p0_damage": 78.0,
+      "p1_damage": 117.0,
+      "p0_stocks": 1,
+      "p1_stocks": 1
+    },
+    {
+      "episode": 2,
+      "opponent": "SmeshBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 0.0,
+      "p0_damage": 0.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 3,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 3,
+      "opponent": "SmeshBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 5686,
+      "reward": 3.5325000000000033,
+      "p0_damage": 35.0,
+      "p1_damage": 217.0,
+      "p0_stocks": 0,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 4,
+      "opponent": "SmeshBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 1.3650000000000002,
+      "p0_damage": 106.10000000000001,
+      "p1_damage": 136.5,
+      "p0_stocks": 3,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 5,
+      "opponent": "SmeshBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 2.56,
+      "p0_damage": 132.0,
+      "p1_damage": 256.0,
+      "p0_stocks": 3,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 6,
+      "opponent": "SmeshBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 0.0,
+      "p0_damage": 0.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 3,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 7,
+      "opponent": "SmeshBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 3.4,
+      "p0_damage": 106.0,
+      "p1_damage": 169.0,
+      "p0_stocks": 3,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 8,
+      "opponent": "SmeshBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 4442,
+      "reward": 2.7975,
+      "p0_damage": 7.0,
+      "p1_damage": 34.75,
+      "p0_stocks": 0,
+      "p1_stocks": 1
+    },
+    {
+      "episode": 9,
+      "opponent": "SmeshBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 4805,
+      "reward": 2.150000000000001,
+      "p0_damage": 36.0,
+      "p1_damage": 119.0,
+      "p0_stocks": 0,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 10,
+      "opponent": "SmeshBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 7200,
+      "reward": 0.0,
+      "p0_damage": 39.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 3,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 11,
+      "opponent": "SmeshBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 0.0,
+      "p0_damage": 0.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 3,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 12,
+      "opponent": "SmeshBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 0.0,
+      "p0_damage": 0.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 3,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 13,
+      "opponent": "SmeshBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 2.4975000000000005,
+      "p0_damage": 124.0,
+      "p1_damage": 249.75,
+      "p0_stocks": 3,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 14,
+      "opponent": "SmeshBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 7200,
+      "reward": 4.155000000000001,
+      "p0_damage": 98.0,
+      "p1_damage": 221.5,
+      "p0_stocks": 1,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 15,
+      "opponent": "SmeshBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 3.8450000000000006,
+      "p0_damage": 44.0,
+      "p1_damage": 54.0,
+      "p0_stocks": 2,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 16,
+      "opponent": "SmeshBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 0.16,
+      "p0_damage": 0.0,
+      "p1_damage": 16.0,
+      "p0_stocks": 3,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 17,
+      "opponent": "SmeshBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 7200,
+      "reward": 2.3325,
+      "p0_damage": 105.0,
+      "p1_damage": 333.25,
+      "p0_stocks": 2,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 18,
+      "opponent": "SmeshBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 2295,
+      "reward": -0.5399999999999997,
+      "p0_damage": 49.0,
+      "p1_damage": 246.0,
+      "p0_stocks": 0,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 19,
+      "opponent": "SmeshBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 7200,
+      "reward": 0.0,
+      "p0_damage": 0.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 3,
+      "p1_stocks": 3
+    }
+  ],
+  "random_rows": [
+    {
+      "episode": 0,
+      "opponent": "RandomBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 1036,
+      "reward": 3.0,
+      "p0_damage": 0.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 3,
+      "p1_stocks": 0
+    },
+    {
+      "episode": 1,
+      "opponent": "RandomBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 2293,
+      "reward": -1.8175,
+      "p0_damage": 0.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 0,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 2,
+      "opponent": "RandomBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 4027,
+      "reward": 2.2140000000000004,
+      "p0_damage": 26.0,
+      "p1_damage": 16.5,
+      "p0_stocks": 1,
+      "p1_stocks": 0
+    },
+    {
+      "episode": 3,
+      "opponent": "RandomBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 3070,
+      "reward": 1.0,
+      "p0_damage": 0.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 1,
+      "p1_stocks": 0
+    },
+    {
+      "episode": 4,
+      "opponent": "RandomBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 638,
+      "reward": -3.0,
+      "p0_damage": 0.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 0,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 5,
+      "opponent": "RandomBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 1936,
+      "reward": -1.0,
+      "p0_damage": 0.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 0,
+      "p1_stocks": 1
+    },
+    {
+      "episode": 6,
+      "opponent": "RandomBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 3724,
+      "reward": -0.14,
+      "p0_damage": 44.050000000000004,
+      "p1_damage": 62.0,
+      "p0_stocks": 0,
+      "p1_stocks": 1
+    },
+    {
+      "episode": 7,
+      "opponent": "RandomBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 972,
+      "reward": -2.0,
+      "p0_damage": 0.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 0,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 8,
+      "opponent": "RandomBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 1597,
+      "reward": -1.9,
+      "p0_damage": 16.0,
+      "p1_damage": 10.0,
+      "p0_stocks": 0,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 9,
+      "opponent": "RandomBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 1860,
+      "reward": -1.9475,
+      "p0_damage": 3.0,
+      "p1_damage": 5.25,
+      "p0_stocks": 0,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 10,
+      "opponent": "RandomBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 2939,
+      "reward": -1.3549999999999995,
+      "p0_damage": 32.2,
+      "p1_damage": 0.0,
+      "p0_stocks": 0,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 11,
+      "opponent": "RandomBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 3652,
+      "reward": -0.16749999999999987,
+      "p0_damage": 3.0,
+      "p1_damage": 40.5,
+      "p0_stocks": 0,
+      "p1_stocks": 1
+    },
+    {
+      "episode": 12,
+      "opponent": "RandomBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 538,
+      "reward": -3.0,
+      "p0_damage": 0.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 0,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 13,
+      "opponent": "RandomBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 977,
+      "reward": 1.2400000000000002,
+      "p0_damage": 0.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 1,
+      "p1_stocks": 0
+    },
+    {
+      "episode": 14,
+      "opponent": "RandomBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 1746,
+      "reward": 3.4,
+      "p0_damage": 42.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 3,
+      "p1_stocks": 0
+    },
+    {
+      "episode": 15,
+      "opponent": "RandomBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 850,
+      "reward": -2.0,
+      "p0_damage": 0.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 0,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 16,
+      "opponent": "RandomBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 5537,
+      "reward": -0.31499999999999995,
+      "p0_damage": 0.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 0,
+      "p1_stocks": 1
+    },
+    {
+      "episode": 17,
+      "opponent": "RandomBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 2366,
+      "reward": 1.16,
+      "p0_damage": 3.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 1,
+      "p1_stocks": 0
+    },
+    {
+      "episode": 18,
+      "opponent": "RandomBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 1066,
+      "reward": -3.0,
+      "p0_damage": 0.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 0,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 19,
+      "opponent": "RandomBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 883,
+      "reward": -2.0,
+      "p0_damage": 0.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 0,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 0,
+      "opponent": "ChaserBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 3497,
+      "reward": 2.8055000000000008,
+      "p0_damage": 0.0,
+      "p1_damage": 10.0,
+      "p0_stocks": 0,
+      "p1_stocks": 1
+    },
+    {
+      "episode": 1,
+      "opponent": "ChaserBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 2176,
+      "reward": 0.6275000000000004,
+      "p0_damage": 52.0,
+      "p1_damage": 41.0,
+      "p0_stocks": 0,
+      "p1_stocks": 1
+    },
+    {
+      "episode": 2,
+      "opponent": "ChaserBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 1300,
+      "reward": -0.53,
+      "p0_damage": 0.0,
+      "p1_damage": 26.0,
+      "p0_stocks": 0,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 3,
+      "opponent": "ChaserBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 1199,
+      "reward": -1.0875,
+      "p0_damage": 0.0,
+      "p1_damage": 56.0,
+      "p0_stocks": 0,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 4,
+      "opponent": "ChaserBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 3008,
+      "reward": 4.8425,
+      "p0_damage": 0.0,
+      "p1_damage": 8.0,
+      "p0_stocks": 1,
+      "p1_stocks": 0
+    },
+    {
+      "episode": 5,
+      "opponent": "ChaserBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 807,
+      "reward": -0.27000000000000024,
+      "p0_damage": 8.0,
+      "p1_damage": 23.0,
+      "p0_stocks": 0,
+      "p1_stocks": 1
+    },
+    {
+      "episode": 6,
+      "opponent": "ChaserBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 1214,
+      "reward": -1.29,
+      "p0_damage": 0.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 0,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 7,
+      "opponent": "ChaserBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 3373,
+      "reward": 1.1610000000000014,
+      "p0_damage": 10.0,
+      "p1_damage": 416.1000000000001,
+      "p0_stocks": 0,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 8,
+      "opponent": "ChaserBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 1511,
+      "reward": 0.4165000000000001,
+      "p0_damage": 70.0,
+      "p1_damage": 169.65,
+      "p0_stocks": 0,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 9,
+      "opponent": "ChaserBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 1936,
+      "reward": 3.0475000000000003,
+      "p0_damage": 16.0,
+      "p1_damage": 12.5,
+      "p0_stocks": 1,
+      "p1_stocks": 0
+    },
+    {
+      "episode": 10,
+      "opponent": "ChaserBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 1256,
+      "reward": -0.6525,
+      "p0_damage": 48.0,
+      "p1_damage": 110.75,
+      "p0_stocks": 0,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 11,
+      "opponent": "ChaserBot",
+      "winner": 0,
+      "p0_win": true,
+      "frames": 1156,
+      "reward": 1.7775,
+      "p0_damage": 10.0,
+      "p1_damage": 28.25,
+      "p0_stocks": 1,
+      "p1_stocks": 0
+    },
+    {
+      "episode": 12,
+      "opponent": "ChaserBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 3373,
+      "reward": 3.523500000000001,
+      "p0_damage": 46.0,
+      "p1_damage": 136.6,
+      "p0_stocks": 0,
+      "p1_stocks": 1
+    },
+    {
+      "episode": 13,
+      "opponent": "ChaserBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 912,
+      "reward": -0.07499999999999996,
+      "p0_damage": 40.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 0,
+      "p1_stocks": 1
+    },
+    {
+      "episode": 14,
+      "opponent": "ChaserBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 974,
+      "reward": -2.3920000000000003,
+      "p0_damage": 0.0,
+      "p1_damage": 60.8,
+      "p0_stocks": 0,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 15,
+      "opponent": "ChaserBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 2093,
+      "reward": 0.7880000000000005,
+      "p0_damage": 50.0,
+      "p1_damage": 134.25,
+      "p0_stocks": 0,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 16,
+      "opponent": "ChaserBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 2784,
+      "reward": -0.22350000000000025,
+      "p0_damage": 44.0,
+      "p1_damage": 277.65,
+      "p0_stocks": 0,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 17,
+      "opponent": "ChaserBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 847,
+      "reward": -0.41749999999999987,
+      "p0_damage": 10.0,
+      "p1_damage": 19.25,
+      "p0_stocks": 0,
+      "p1_stocks": 1
+    },
+    {
+      "episode": 18,
+      "opponent": "ChaserBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 689,
+      "reward": -0.5089999999999999,
+      "p0_damage": 0.0,
+      "p1_damage": 16.3,
+      "p0_stocks": 0,
+      "p1_stocks": 1
+    },
+    {
+      "episode": 19,
+      "opponent": "ChaserBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 912,
+      "reward": -2.1975,
+      "p0_damage": 0.0,
+      "p1_damage": 80.25,
+      "p0_stocks": 0,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 0,
+      "opponent": "SmeshBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 2377,
+      "reward": -1.469,
+      "p0_damage": 98.0,
+      "p1_damage": 153.1,
+      "p0_stocks": 0,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 1,
+      "opponent": "SmeshBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 1861,
+      "reward": -1.8599999999999999,
+      "p0_damage": 107.25,
+      "p1_damage": 114.0,
+      "p0_stocks": 0,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 2,
+      "opponent": "SmeshBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 3559,
+      "reward": -0.46499999999999986,
+      "p0_damage": 7.0,
+      "p1_damage": 253.5,
+      "p0_stocks": 0,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 3,
+      "opponent": "SmeshBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 3964,
+      "reward": 1.9505000000000012,
+      "p0_damage": 128.5,
+      "p1_damage": 203.05,
+      "p0_stocks": 0,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 4,
+      "opponent": "SmeshBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 1611,
+      "reward": -1.851,
+      "p0_damage": 0.0,
+      "p1_damage": 114.9,
+      "p0_stocks": 0,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 5,
+      "opponent": "SmeshBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 1877,
+      "reward": -2.0250000000000004,
+      "p0_damage": 38.0,
+      "p1_damage": 97.5,
+      "p0_stocks": 0,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 6,
+      "opponent": "SmeshBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 1319,
+      "reward": -1.9445000000000001,
+      "p0_damage": 0.0,
+      "p1_damage": 105.55,
+      "p0_stocks": 0,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 7,
+      "opponent": "SmeshBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 1733,
+      "reward": -1.7224999999999997,
+      "p0_damage": 7.499999999999999,
+      "p1_damage": 127.75,
+      "p0_stocks": 0,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 8,
+      "opponent": "SmeshBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 1338,
+      "reward": -2.4475000000000002,
+      "p0_damage": 0.0,
+      "p1_damage": 55.25,
+      "p0_stocks": 0,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 9,
+      "opponent": "SmeshBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 2036,
+      "reward": -1.8589999999999995,
+      "p0_damage": 62.0,
+      "p1_damage": 114.1,
+      "p0_stocks": 0,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 10,
+      "opponent": "SmeshBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 1341,
+      "reward": -2.2485,
+      "p0_damage": 0.0,
+      "p1_damage": 75.15,
+      "p0_stocks": 0,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 11,
+      "opponent": "SmeshBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 1295,
+      "reward": -2.7675,
+      "p0_damage": 0.0,
+      "p1_damage": 23.25,
+      "p0_stocks": 0,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 12,
+      "opponent": "SmeshBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 679,
+      "reward": -3.0,
+      "p0_damage": 0.0,
+      "p1_damage": 0.0,
+      "p0_stocks": 0,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 13,
+      "opponent": "SmeshBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 1342,
+      "reward": -2.2945,
+      "p0_damage": 0.0,
+      "p1_damage": 70.55,
+      "p0_stocks": 0,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 14,
+      "opponent": "SmeshBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 4342,
+      "reward": 0.7295000000000003,
+      "p0_damage": 102.0,
+      "p1_damage": 31.2,
+      "p0_stocks": 0,
+      "p1_stocks": 2
+    },
+    {
+      "episode": 15,
+      "opponent": "SmeshBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 1328,
+      "reward": -2.7775,
+      "p0_damage": 30.0,
+      "p1_damage": 22.25,
+      "p0_stocks": 0,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 16,
+      "opponent": "SmeshBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 736,
+      "reward": -2.755,
+      "p0_damage": 0.0,
+      "p1_damage": 24.5,
+      "p0_stocks": 0,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 17,
+      "opponent": "SmeshBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 2351,
+      "reward": -1.5434999999999999,
+      "p0_damage": 47.0,
+      "p1_damage": 145.65,
+      "p0_stocks": 0,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 18,
+      "opponent": "SmeshBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 2628,
+      "reward": -1.2825,
+      "p0_damage": 15.999999999999998,
+      "p1_damage": 171.75,
+      "p0_stocks": 0,
+      "p1_stocks": 3
+    },
+    {
+      "episode": 19,
+      "opponent": "SmeshBot",
+      "winner": 1,
+      "p0_win": false,
+      "frames": 2649,
+      "reward": -1.4820000000000002,
+      "p0_damage": 69.0,
+      "p1_damage": 151.79999999999998,
+      "p0_stocks": 0,
+      "p1_stocks": 3
+    }
+  ],
+  "checkpoint": "agents/checkpoints/ppo_smeshlite_final_chaser_100k.zip",
+  "action_summary": {
+    "RandomBot": {
+      "n_decisions": 27617,
+      "left_rate": 0.46945721837998333,
+      "right_rate": 0.48035630227758264,
+      "up_rate": 0.6551761596118333,
+      "attack_rate": 0.7731469746895029
+    },
+    "ChaserBot": {
+      "n_decisions": 36000,
+      "left_rate": 0.5727777777777778,
+      "right_rate": 0.5888888888888889,
+      "up_rate": 0.6633333333333333,
+      "attack_rate": 0.945
+    },
+    "SmeshBot": {
+      "n_decisions": 33108,
+      "left_rate": 0.49036486649752326,
+      "right_rate": 0.5167029116829769,
+      "up_rate": 0.6258608191373686,
+      "attack_rate": 0.6319318593693367
+    }
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "opponent": "RandomBot",
+    "ppo_wins": 98,
+    "ppo_n": 100,
+    "random_wins": 25,
+    "random_n": 100,
+    "z": 10.608157024659123,
+    "p_value": 0.0,
+    "difference": 0.73
+  },
+  {
+    "opponent": "ChaserBot",
+    "ppo_wins": 100,
+    "ppo_n": 100,
+    "random_wins": 17,
+    "random_n": 100,
+    "z": 11.911353486499417,
+    "p_value": 0.0,
+    "difference": 0.83
+  },
+  {
+    "opponent": "SmeshBot",
+    "ppo_wins": 67,
+    "ppo_n": 100,
+    "random_wins": 0,
+    "random_n": 100,
+    "z": 10.037523583994615,
+    "p_value": 0.0,
+    "difference": 0.67
+  }
+]
